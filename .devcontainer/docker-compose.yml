@@ -1,4 +1,4 @@
-name: "template-rails-mysql-compose-stack"
+name: "testrails"
 
 services:
 
