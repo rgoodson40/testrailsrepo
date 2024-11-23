@@ -1,5 +1,5 @@
 {
-    "name": "template-rails-mysql",
+    "name": "testrails",
     "dockerComposeFile": ["docker-compose.yml"],
     "service": "app",
     //"workspaceFolder": "/workspace"
